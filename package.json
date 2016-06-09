@@ -1,0 +1,14 @@
+{
+  "name": "khai-testing-collection",
+  "version": "0.0.0",
+  "description": "Don't reply on this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "nodejs-test": "khai-test-repositories/nodejs-test"
+  },
+  "author": "",
+  "license": "WTFPL"
+}
