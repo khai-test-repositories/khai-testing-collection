@@ -7,8 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-      "nodejs-test": "khai-test-repositories/nodejs-test"
+    "nodejs-test": "github:khai-test-repositories/nodejs-test"
   },
-  "author": "",
-  "license": "WTFPL"
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "license": "WTFPL",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khai-test-repositories/khai-testing-collection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/khai-test-repositories/khai-testing-collection/issues"
+  },
+  "homepage": "https://github.com/khai-test-repositories/khai-testing-collection#readme"
 }
